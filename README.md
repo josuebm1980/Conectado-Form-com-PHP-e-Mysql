@@ -1,4 +1,5 @@
-# Projeto de uma página de Homage
+# Projeto contando fomrmulário com PHP e Msql
 
-## Em breve será colocado algumas melhorias nessa página
+## Como conectar o formulário de registro HTML ao banco de dados MySQL com PHP com com uma codificação simples
+
 
